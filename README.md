@@ -1,5 +1,8 @@
 # Hi there, I'm Hồ Thị Ngọc Hà 👋
 
+[![Student](https://img.shields.io/badge/Student-HCMCOU-blue)](https://www.ou.edu.vn/)
+[![Location](https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City-red)](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City)
+
 ## 🎓 About Me
 - 🏫 Student at **Ho Chi Minh City Open University** (HCMCOU)
 - 📍 Ho Chi Minh City, Vietnam
@@ -24,9 +27,6 @@
 - 👯 Open to collaborate on student projects and open source
 - 💡 Exploring new technologies and frameworks
 - 🌐 Developing web applications with modern tech stack
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
 
 ## 🌟 Fun Facts
 - ⚡ Passionate about coding and technology
